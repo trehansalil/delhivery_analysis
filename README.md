@@ -22,8 +22,8 @@ Column Profiling:
 - trip_creation_time – Timestamp of trip creation
 - route_schedule_uuid – Unique Id for a particular route schedule
 - route_type – Transportation type
-- FTL – Full Truck Load: FTL shipments get to the destination sooner, as the truck is making no other pickups or drop-offs along the way
-- Carting: Handling system consisting of small vehicles (carts)
+    - FTL – Full Truck Load: FTL shipments get to the destination sooner, as the truck is making no other pickups or drop-offs along the way
+    - Carting: Handling system consisting of small vehicles (carts)
 - trip_uuid - Unique ID given to a particular trip (A trip may include different source and destination centers)
 - source_center - Source ID of trip origin
 - source_name - Source Name of trip origin
